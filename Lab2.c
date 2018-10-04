@@ -15,5 +15,5 @@ int main (void )
             a = n*n*pow(M_E, -sqrt(n));            
             s = s + a; 
        }        
-       printf(‘‘ s =  %lf\n’’ , s) 
+       printf("s =  %lf\n" , s);
 } 
